@@ -13,60 +13,33 @@ I’m a passionate Java Software Developer with three years of professional expe
 
 # Knowledge
 
-<<<<<<< HEAD
 - **Languages**: C++, C, Java, Objective-C, C#, SQL, JavaScript, HTML, CSS, Angular, Python
-=======
-- **Languages**: C++, C, Java, Objective-C, C#, SQL, JavaScript
->>>>>>> b49f3dc495005014f38eb3f8b268179e97b2a083
 - **Frameworks & Technologies**: .NET, Maven, JWT, Spring Boot, Spring Data, Hibernate, RabbitMQ, Kafka
 - **Tools & Platforms**: Docker, CloudFoundry, Jenkins, Postman, Splunk, GitHub
 - **Cloud & DevOps**: Azure (Repositories, Pipelines, Resource Allocation, Database Management with PostgreSQL)
 - **Databases**: MongoDB, PostgreSQL
-<<<<<<< HEAD
 # Education
 
 ## Faculty of Automatic Control and Computers – University of Science and Technology POLITEHNICA Bucharest
 
 *B.Sc. in Business Systems Engineering and Management*
-=======
-- **Hobbies**: Travel, Technology, Fitness and Sports, Video Games
-# Education
-
-## IMSA University Politehnica of Bucharest
-
-*B.Sc. in Computer Science*
->>>>>>> b49f3dc495005014f38eb3f8b268179e97b2a083
 
 **Period:** Oct 2023 to present
 
 
-<<<<<<< HEAD
 - Acquiring knowledge and skills in information and knowledge management at the level of a company, so that it constitutes a competitive advantage
 
 ## Faculty of Electronics, Telecommunications and Information Technology – University of Science and Technology POLITEHNICA Bucharest
 
 *B.Sc. in Information Engineering*
-=======
-- Student at the Faculty of Automatic Control and Computers
-- Acquiring knowledge and skills in information and knowledge management at the level of a company, so that it constitutes a competitive advantage
-
-## ETTI University Politehnica of Bucharest
-
-*B.Sc. in Computer Science*
->>>>>>> b49f3dc495005014f38eb3f8b268179e97b2a083
 
 **Period:** Sep 2019 to Jul 2023
 
 
-<<<<<<< HEAD
-=======
-- Student at the Faculty of Electronics, Telecommunications and Information Technology
->>>>>>> b49f3dc495005014f38eb3f8b268179e97b2a083
 - Relevant courses in Computer Programming, Data Structures and Algorithms and Object‑Oriented Programming
 
 # Experience
 
-<<<<<<< HEAD
 ## Cognizant Softvision
 
 *Java Software Developer*
@@ -76,17 +49,6 @@ I’m a passionate Java Software Developer with three years of professional expe
 **Location:** Bucharest, Romania
 
 - Worked with external banking client in a cross location team (RO/NL) in business lending.
-=======
-## Rabobank
-
-*Software Engineer*
-
-**Period:** Nov 2023 to present
-
-**Location:** Utrecht, Netherlands
-
-- Hired as external employee through *Cognizant Softvision* - remote
->>>>>>> b49f3dc495005014f38eb3f8b268179e97b2a083
 - Designed and implemented high-availability, scalable microservices architecture using Kafka for inter-service communication.
 - Developed and maintained templates for automated generation of business documents.
 - Automated document signing processes, reducing manual intervention.
@@ -97,11 +59,7 @@ I’m a passionate Java Software Developer with three years of professional expe
 
 ## Tremend Softwatre Consulting
 
-<<<<<<< HEAD
 *Java Software Developer*
-=======
-*Software Engineer*
->>>>>>> b49f3dc495005014f38eb3f8b268179e97b2a083
 
 **Period:** Jul 2022 to Nov 2023
 
