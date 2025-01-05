@@ -1,10 +1,10 @@
-# Andrei-Cristian Zaharia's CV
+# Andrei-Cristian Zaharia's Curriculum Vitae (Résumé)
 
-- Phone: +40 735 564 897
-- Email: [zaharia.andrei2010@gmail.com](mailto:zaharia.andrei2010@gmail.com)
-- Location: Romania, Bucharest
-- LinkedIn: [andrei-cristian-zaharia](https://linkedin.com/in/andrei-cristian-zaharia)
-- GitHub: [Andrei-Cristian-Zaharia](https://github.com/Andrei-Cristian-Zaharia)
+- **Phone**: [+40 735 564 897](tel:+40735564897)
+- **Email**: [zaharia.andrei2010@gmail.com](mailto:zaharia.andrei2010@gmail.com)
+- **Location**: Romania, Bucharest
+- **LinkedIn**: [andrei-cristian-zaharia](https://linkedin.com/in/andrei-cristian-zaharia)
+- **GitHub**: [Andrei-Cristian-Zaharia](https://github.com/Andrei-Cristian-Zaharia)
 
 
 # About Me
@@ -13,32 +13,44 @@ I’m a passionate Java Software Developer with three years of professional expe
 
 # Knowledge
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Frameworks & Technologies: .NET, Maven, JWT, Spring Boot, Spring Data, Hibernate, RabbitMQ, Kafka
-- Tools & Platforms: Docker, CloudFoundry, Jenkins, Postman, Splunk, GitHub
-- Cloud & DevOps: Azure (Repositories, Pipelines, Resource Allocation, Database Management with PostgreSQL)
-- Databases: MongoDB, PostgreSQL
-- Hobbies: Travel, Technology, Fitness and Sports, Video Games
+- **Languages**: C++, C, Java, Objective-C, C#, SQL, JavaScript
+- **Frameworks & Technologies**: .NET, Maven, JWT, Spring Boot, Spring Data, Hibernate, RabbitMQ, Kafka
+- **Tools & Platforms**: Docker, CloudFoundry, Jenkins, Postman, Splunk, GitHub
+- **Cloud & DevOps**: Azure (Repositories, Pipelines, Resource Allocation, Database Management with PostgreSQL)
+- **Databases**: MongoDB, PostgreSQL
+- **Hobbies**: Travel, Technology, Fitness and Sports, Video Games
 # Education
 
-## IMSA University Politehnica of Bucharest, B.Sc. in Computer Science
+## IMSA University Politehnica of Bucharest
 
-- Oct 2023 to present
+*B.Sc. in Computer Science*
+
+**Period:** Oct 2023 to present
+
+
 - Student at the Faculty of Automatic Control and Computers
 - Acquiring knowledge and skills in information and knowledge management at the level of a company, so that it constitutes a competitive advantage
 
-## ETTI University Politehnica of Bucharest, B.Sc. in Computer Science
+## ETTI University Politehnica of Bucharest
 
-- Sep 2019 to Jul 2023
+*B.Sc. in Computer Science*
+
+**Period:** Sep 2019 to Jul 2023
+
+
 - Student at the Faculty of Electronics, Telecommunications and Information Technology
 - Relevant courses in Computer Programming, Data Structures and Algorithms and Object‑Oriented Programming
 
 # Experience
 
-## Rabobank, Software Engineer
+## Rabobank
 
-- Nov 2023 to present
-- Utrecht, Netherlands
+*Software Engineer*
+
+**Period:** Nov 2023 to present
+
+**Location:** Utrecht, Netherlands
+
 - Hired as external employee through *Cognizant Softvision* - remote
 - Designed and implemented high-availability, scalable microservices architecture using Kafka for inter-service communication.
 - Developed and maintained templates for automated generation of business documents.
@@ -47,10 +59,14 @@ I’m a passionate Java Software Developer with three years of professional expe
 - Enhanced code quality by implementing unit tests and component testing to ensure reliability.
 - Developed a comprehensive dashboard to display critical statistics and debugging information, streamlining troubleshooting and decision-making.
 
-## Tremend Softwatre Consulting, Software Engineer
+## Tremend Softwatre Consulting
 
-- Jul 2022 to Nov 2023
-- Bucharest, Romania
+*Software Engineer*
+
+**Period:** Jul 2022 to Nov 2023
+
+**Location:** Bucharest, Romania
+
 - Created and maintained technical documentation for application features and architecture.
 - Conducted comprehensive code reviews to ensure quality and adherence to best practices.
 - Investigated, documented, and resolved production bugs, improving application stability.
