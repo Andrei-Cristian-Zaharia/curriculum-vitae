@@ -1,62 +1,77 @@
-# Andrei-Cristian Zaharia's CV
+# Andrei-Cristian Zaharia's Curriculum Vitae (Résumé)
 
-- Phone: +40 735 564 897
-- Email: [zaharia.andrei2010@gmail.com](mailto:zaharia.andrei2010@gmail.com)
-- Location: Romania, Bucharest
-- LinkedIn: [andrei-cristian-zaharia](https://linkedin.com/in/andrei-cristian-zaharia)
-- GitHub: [Andrei-Cristian-Zaharia](https://github.com/Andrei-Cristian-Zaharia)
+- **Phone**: [+40 735 564 897](tel:+40735564897)
+- **Email**: [zaharia.andrei2010@gmail.com](mailto:zaharia.andrei2010@gmail.com)
+- **Location**: Romania, Bucharest
+- **LinkedIn**: [andrei-cristian-zaharia](https://linkedin.com/in/andrei-cristian-zaharia)
+- **GitHub**: [Andrei-Cristian-Zaharia](https://github.com/Andrei-Cristian-Zaharia)
 
 
 # About Me
 
-I’m a passionate Java Software Developer with three years of professional experience, plus additional hands-on practice through self-directed learning and academic projects. I stay current with emerging technologies, maintain an enthusiastic mindset, and thrive on opportunities to learn and grow.
+I’m a passionate Java Software Developer with three years of professional experience, plus additional hands-on practice through self-directed learning and academic projects. I stay current with emerging technologies, maintain an enthusiastic mindset, and thrive on opportunities to learn and grow. I love traveling, staying up to date with technology and working out.
 
 # Knowledge
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Frameworks & Technologies: .NET, Maven, JWT, Spring Boot, Spring Data, Hibernate, RabbitMQ, Kafka
-- Tools & Platforms: Docker, CloudFoundry, Jenkins, Postman, Splunk, GitHub
-- Cloud & DevOps: Azure (Repositories, Pipelines, Resource Allocation, Database Management with PostgreSQL)
-- Databases: MongoDB, PostgreSQL
-- Hobbies: Travel, Technology, Fitness and Sports, Video Games
+- **Languages**: C++, C, Java, Objective-C, C#, SQL, JavaScript, HTML, CSS, Angular, Python
+- **Frameworks & Technologies**: .NET, Maven, JWT, Spring Boot, Spring Data, Hibernate, RabbitMQ, Kafka
+- **Tools & Platforms**: Docker, CloudFoundry, Jenkins, Postman, Splunk, GitHub
+- **Cloud & DevOps**: Azure (Repositories, Pipelines, Resource Allocation, Database Management with PostgreSQL)
+- **Databases**: MongoDB, PostgreSQL
 # Education
 
-## IMSA University Politehnica of Bucharest, B.Sc. in Computer Science
+## Faculty of Automatic Control and Computers – University of Science and Technology POLITEHNICA Bucharest
 
-- Oct 2023 to present
-- Student at the Faculty of Automatic Control and Computers
+*B.Sc. in Business Systems Engineering and Management*
+
+**Period:** Oct 2023 to present
+
+
 - Acquiring knowledge and skills in information and knowledge management at the level of a company, so that it constitutes a competitive advantage
 
-## ETTI University Politehnica of Bucharest, B.Sc. in Computer Science
+## Faculty of Electronics, Telecommunications and Information Technology – University of Science and Technology POLITEHNICA Bucharest
 
-- Sep 2019 to Jul 2023
-- Student at the Faculty of Electronics, Telecommunications and Information Technology
+*B.Sc. in Information Engineering*
+
+**Period:** Sep 2019 to Jul 2023
+
+
 - Relevant courses in Computer Programming, Data Structures and Algorithms and Object‑Oriented Programming
 
 # Experience
 
-## Rabobank, Software Engineer
+## Cognizant Softvision
 
-- Nov 2023 to present
-- Utrecht, Netherlands
-- Hired as external employee through *Cognizant Softvision* - remote
+*Java Software Developer*
+
+**Period:** Nov 2023 to present
+
+**Location:** Bucharest, Romania
+
+- Worked with external banking client in a cross location team (RO/NL) in business lending.
 - Designed and implemented high-availability, scalable microservices architecture using Kafka for inter-service communication.
 - Developed and maintained templates for automated generation of business documents.
 - Automated document signing processes, reducing manual intervention.
 - Created and optimized CI/CD pipelines to improve development and deployment efficiency.
 - Enhanced code quality by implementing unit tests and component testing to ensure reliability.
-- Developed a comprehensive dashboard to display critical statistics and debugging information, streamlining troubleshooting and decision-making.
+- Developed a comprehensive dashboard to display statistics and debugging information.
+- Used Java 17, Angular 17, Spring Boot, Microservices, Kafka, Azure, Splunk and PostgreSQL.
 
-## Tremend Softwatre Consulting, Software Engineer
+## Tremend Softwatre Consulting
 
-- Jul 2022 to Nov 2023
-- Bucharest, Romania
+*Java Software Developer*
+
+**Period:** Jul 2022 to Nov 2023
+
+**Location:** Bucharest, Romania
+
 - Created and maintained technical documentation for application features and architecture.
 - Conducted comprehensive code reviews to ensure quality and adherence to best practices.
 - Investigated, documented, and resolved production bugs, improving application stability.
 - Managed the continuous integration and deployment (CI/CD) pipeline using Jenkins.
 - Developed robust and scalable RESTful web services using microservices.
 - Designed and implemented frontend components for seamless user experiences.
+- Java 11, Angular 7, HTML, CSS, RabbitMQ, Jenkins, MongoDB, PostgreSQL
 
 # Projects
 
@@ -80,11 +95,15 @@ I’m a passionate Java Software Developer with three years of professional expe
 
 # Certifications
 
-## [CCNA: Introduction to Networks](https://www.credly.com/badges/5a7a6b84-872c-45c6-aadf-2f45027e432c/public_url)
+### [CCNA: Introduction to Networks](https://www.credly.com/badges/5a7a6b84-872c-45c6-aadf-2f45027e432c/public_url) 
+**Issued by Cisco**
 
-- 2021
+Acquired in **2021**
 
-## [ECDL ROMANIA (2018)](https://bd.ecdl.org.ro/ecdlvcard/EnCertification.aspx)
 
-- 2018
+### [ECDL ROMANIA (2018)](https://bd.ecdl.org.ro/ecdlvcard/EnCertification.aspx) 
+**Issued by ICDL**
+
+Acquired in **2018**
+
 
