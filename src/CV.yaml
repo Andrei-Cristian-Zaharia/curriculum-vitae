@@ -1,0 +1,167 @@
+cv:
+  name: Andrei-Cristian Zaharia 
+  location: Romania, Bucharest
+  email: zaharia.andrei2010@gmail.com
+  phone: tel:+40735564897
+  social_networks:
+    - network: LinkedIn
+      username: andrei-cristian-zaharia
+    - network: GitHub
+      username: Andrei-Cristian-Zaharia
+  sections:
+    about me:
+      - 'I’m a passionate Java Software Developer with three years of professional experience, plus additional hands-on practice through self-directed learning and academic projects. I stay current with emerging technologies, maintain an enthusiastic mindset, and thrive on opportunities to learn and grow.'
+    knowledge:
+      - label: Languages
+        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
+      - label: Frameworks & Technologies
+        details: .NET, Maven, JWT, Spring Boot, Spring Data, Hibernate, RabbitMQ, Kafka
+      - label: Tools & Platforms
+        details: Docker, CloudFoundry, Jenkins, Postman, Splunk, GitHub
+      - label: Cloud & DevOps
+        details: Azure (Repositories, Pipelines, Resource Allocation, Database Management with PostgreSQL)
+      - label: Databases
+        details: MongoDB, PostgreSQL
+      - label: Hobbies
+        details: Travel, Technology, Fitness and Sports, Video Games
+    education:
+      - institution: IMSA University Politehnica of Bucharest
+        area: Computer Science
+        degree: B.Sc.
+        start_date: 2023-10
+        end_date: present
+        highlights:
+          - 'Student at the Faculty of Automatic Control and Computers'
+          - 'Acquiring knowledge and skills in information and knowledge management at the level of a company, so that it constitutes a competitive advantage'
+      - institution: ETTI University Politehnica of Bucharest
+        area: Computer Science
+        degree: B.Sc.
+        start_date: 2019-09
+        end_date: 2023-07
+        highlights:
+          - 'Student at the Faculty of Electronics, Telecommunications and Information Technology'
+          - 'Relevant courses in Computer Programming, Data Structures and Algorithms and Object‑Oriented Programming'
+    experience:
+      - company: Rabobank
+        position: Software Engineer
+        location: Utrecht, Netherlands 
+        start_date: 2023-11
+        end_date: present
+        highlights:
+          - Hired as external employee through *Cognizant Softvision* - remote
+          - Designed and implemented high-availability, scalable microservices architecture using Kafka for inter-service communication.
+          - Developed and maintained templates for automated generation of business documents.
+          - Automated document signing processes, reducing manual intervention.
+          - Created and optimized CI/CD pipelines to improve development and deployment efficiency.
+          - Enhanced code quality by implementing unit tests and component testing to ensure reliability.
+          - Developed a comprehensive dashboard to display critical statistics and debugging information, streamlining troubleshooting and decision-making.
+      - company: Tremend Softwatre Consulting
+        position: Software Engineer
+        location: Bucharest, Romania
+        start_date: 2022-07
+        end_date: 2023-11
+        highlights:
+          - Created and maintained technical documentation for application features and architecture.
+          - Conducted comprehensive code reviews to ensure quality and adherence to best practices.
+          - Investigated, documented, and resolved production bugs, improving application stability.
+          - Managed the continuous integration and deployment (CI/CD) pipeline using Jenkins.
+          - Developed robust and scalable RESTful web services using microservices.
+          - Designed and implemented frontend components for seamless user experiences.
+    projects:
+      - name: Arduino project ("Repeat the colors")
+        date: '[Repeat-the-colors](https://github.com/Andrei-Cristian-Zaharia/Proiect-2)'
+        highlights:
+          - The game "Repeat the colors" is a memory game. We have four colors (LEDs) and four buttons. The microcontroller will generate a string of random numbers whose length will increase after each stage in which there was a match between the LEDs on and the buttons being pressed.
+          - 'Tools Used: C, Arduino IDE'
+      - name: Unity Game Snake-around-the-world
+        date: '[Google Play](https://play.google.com/store/apps/details?id=com.AsarGames.SnakeAroundtheworld)'
+        highlights:
+          - An Android game inspired by the classic Snake, set in a 3D universe of various planets. Each planet presents unique mechanics and obstacles, creating different challenges while collecting points and avoiding hazards. The gameplay blends reflex-based movement and strategic planning for a fresh twist on a timeless concept.
+          - 'Tools Used: C#, Unity Engine, Rider, Blender, Photoshop'
+      - name: Culinary blog - bachlor's degree project
+        date: 2023
+        highlights:
+          - The work aims to design and implement a web application based on microservices architecture, with security based on user roles and tokens based on the PostgreSQL management system. The application is of a culinary blog type, hosting various recipes published by people and restaurants. A page dedicated to promotion and marketing will be created for restaurants.
+          - 'Tools Used: Java 17, Angular 14, Typescript, HTML5 and CSS'
+    certifications:
+      - name: '[CCNA: Introduction to Networks](https://www.credly.com/badges/5a7a6b84-872c-45c6-aadf-2f45027e432c/public_url)'
+        date: '2021'
+      - name: '[ECDL ROMANIA (2018)](https://bd.ecdl.org.ro/ecdlvcard/EnCertification.aspx)'
+        date: '2018'
+
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 1.5 cm
+      bottom: 1.5 cm
+      left: 1.5 cm
+      right: 1.5 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 3.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
+
+locale_catalog:
+  phone_number_format: national 
+  date_style: "MONTH_ABBREVIATION YEAR" 
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: to
+
